@@ -1,13 +1,15 @@
 # a-star
 
-A Clojure library designed to ... well, that part is up to you.
+Pathfinding implementation in Clojure. Has a field and random maze generator
 
 ## Usage
 
-FIXME
+Compile code to java bytecode and run. For instance,
+$ lein uberjar
+$ java -jar target/a-star-0.1.0-SNAPSHOT-standalone.jar
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Vernon Jones
 
 Distributed under the Eclipse Public License, the same as Clojure.
